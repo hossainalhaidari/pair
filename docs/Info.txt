@@ -1,0 +1,17 @@
+1) Time Attack
+2) Die Hard
+3) Survival
+4) Order Based (Left/Right)
+5) Hell Mode
+6) Fun Mode 
+
+hdpi = 72
+mdpi = 48
+xhdpi = 96
+xxhdpi = 144
+
+Screenshot Colors:
+C5FFB1
+F2FFA3
+B7FCF0
+F9D1FF
